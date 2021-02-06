@@ -1,0 +1,19 @@
+Data inserimento: Dec 08, 2020
+
+Lista dei componenti: Filippo Paganelli 0000926989
+
+Proposta di progetto: Come progetto per il corso Sistemi Distribuiti del Prof. Omicini ho sviluppato una Wireless Sensor
+ Network per il rilevamento di fuochi nelle foreste facendo uso di un Multi Agent System
+(http://apice.unibo.it/xwiki/bin/view/Courses/Sd1920ProjectFiredetectionPaganelli).
+Mi sono focalizzato quindi sulle interazioni tra gli agenti simulando tutti gli altri aspetti ed eseguendo in locale
+tutti i servizi necessari al funzionamento del sistema.
+Mi piacerebbe continuare a migliorare questo progetto tramite l'introduzione di sensori reali, la riprogettazione della
+WSN e lo spostamento in cloud di tutti i servizi necessari come memorizzazione e visualizzazione dati.
+La mia idea è quindi quella di espandere il precedente progetto facendo uso di raspberry come scheda per l'esecuzione
+degli agenti e per fare il sensing di dati reali dall'ambiente e facendo uso di servizi cloud per lo storage dei dati
+(NoSQL).
+Probabilmente il carico di lavoro � elevato ma si potrebbe fare come progetto una sola parte delle cose elencate sopra.
+Nel caso la proposta non fosse adeguata mi piacerebbe tanto continuare a lavorare su questo progetto per cui sarei molto
+ contento di ricevere anche proposte diverse inerenti al miglioramento del progetto.
+
+Referente: Filippo Paganelli filippo.paganelli3@studio.unibo.it
